@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node server",
-    "postinstall": "bower cache clean && bower install",
+    "postinstall": "bower install",
     "test" : "mocha tests"
   },
   "dependencies": {
