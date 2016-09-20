@@ -1,0 +1,22 @@
+{
+    "name": "website",
+    "version": "1.0.0",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+        "angularjs": "*",
+        "angular-route": "*",
+        "ui-router": "*",
+        "jquery": "*",
+        "jquery.validate": "*",
+        "bootstrap": "*",
+        "html5shiv": "*",
+        "respond": "*",
+        "angular-bootstrap":"*",
+        "font-awesome":"*"
+    },
+    "devDependencies": {
+    }
+}
